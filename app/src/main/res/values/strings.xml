@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera2Test</string>
+    <string name="record_video_failed">Record video</string>
+</resources>
